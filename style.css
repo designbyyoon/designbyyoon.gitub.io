@@ -1,0 +1,50 @@
+.clear{
+    clear:both;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#website-contraint{
+    width: 1000px;
+    height: 39px;
+    margin: 0 auto;
+    margin-left:50px;
+    margin-top:65px;
+}
+
+#title{
+    font-size: 35px;
+    color:#2E2E2E;
+}
+
+#subtitle{
+    font-size: 20 px;
+    color:#575757;
+}
+
+.img-format{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#yellow-planner-nav{
+    position:absolute;
+    margin-bottom: 40px;
+}
+
+#nav-vid{
+    position:relative; 
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    float:right;
+}
+
+#color-block{
+    background-color: #ebebeb;
+    width: 990px;
+    position: absolute;
+    margin-bottom: 0px;
+}
