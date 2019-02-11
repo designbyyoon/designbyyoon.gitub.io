@@ -2,6 +2,18 @@
     clear:both;
 }
 
+a:hover{
+    color:#494949;
+    font-weight: bold;
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color:#777777;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
 }
